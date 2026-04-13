@@ -1,6 +1,6 @@
 # Retail-Sales-Analysis
 End-to-end retail sales data analysis using Python, visualization, and business insights
-# 🛒 Retail Sales Data Analysis
+#  Retail Sales Data Analysis
 
 ##  Project Overview
 This project analyzes retail sales data to uncover customer behavior, product performance, and revenue insights using Python and data visualization techniques.
