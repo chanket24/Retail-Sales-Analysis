@@ -18,10 +18,10 @@ This project analyzes retail sales data to uncover customer behavior, product pe
 ##  Key Analysis
 
 ###  Rating Distribution by Category
-![Ratings]("C:\Users\Sanket\Downloads\retail_sales\ratings.png")
+![Ratings](C:\Users\Sanket\Downloads\retail_sales\ratings.png)
 
 ###  Revenue by City
-![City Revenue]("C:\Users\Sanket\Downloads\retail_sales\monthly_revenue.png")
+![City Revenue](C:\Users\Sanket\Downloads\retail_sales\monthly_revenue.png)
 
 ###  Payment Method Analysis
 - Credit Card: 21.3%
